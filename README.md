@@ -6,8 +6,8 @@ O presente projeto é um exercício para a turma de Programação de Soluções 
 
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Programação de Soluções Computacionais
+- `Professores`: Diego e Montanha
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 

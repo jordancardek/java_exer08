@@ -14,6 +14,6 @@ public class App {
 
         double salario = valor*horas;
 
-        System.out.println("O seu salário no mês é de: "+salario);
+        System.out.println("O seu salário do mês é: "+salario);
     }
 }
